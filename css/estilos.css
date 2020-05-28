@@ -1,0 +1,25 @@
+
+table {
+  font-family: cursive, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  text-align: justify;
+}
+
+td, th {
+  border: 1px solid #FFFFFF;
+  text-align: justify;
+  padding: 10px;
+}
+
+tr:nth-child(even) {
+  background-color: #A9F5A9;
+}
+
+p{
+  font-family: cursive, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  text-align: justify;
+  
+}
